@@ -1,0 +1,18 @@
+{
+  "prediction_output": "image",
+  "prediction_algorithms": {
+    "linear_regression": true,
+    "logistic_regression": false,
+    "decision_tree": false,
+    "svm_algorithm": false,
+    "naive_bayes_algorithm": false,
+    "knn_algorithm": false,
+    "k_means": false,
+    "random_forest_algorithm": false
+  },
+  "other_settings": {
+    "visualization": true,
+    "data_preprocessing": true,
+    "hyperparameter_tuning": false
+  }
+}
